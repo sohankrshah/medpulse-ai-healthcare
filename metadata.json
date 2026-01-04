@@ -1,0 +1,10 @@
+
+{
+  "name": "MedPulse AI HealthCare",
+  "description": "A comprehensive, AI-powered healthcare management system featuring automated diagnostics, EHR, telemedicine, pharmacy inventory, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
